@@ -5,7 +5,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
-  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .header {
@@ -21,7 +23,7 @@ body {
 
 ul {
   list-style: none;
-  padding: 0px;
+  padding: 10px;
   display: flex;
   gap: 10px;
 }
@@ -34,6 +36,9 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
+  background-color: #eeeeee;
+  margin: 0;
+  padding: 0;
 }
 
 img {

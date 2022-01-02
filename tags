@@ -1,0 +1,274 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rodolfo/repos/css-exercises/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/05e6ab4b/
+#close-modal	animation/03-pop-up/solution/solution.css	/^#close-modal {$/;"	i
+#close-modal	animation/03-pop-up/style.css	/^#close-modal {$/;"	i
+#close-modal:hover	animation/03-pop-up/solution/solution.css	/^#close-modal:hover {$/;"	i
+#confirm-button	foundations/06-cascade-fix/solution/solution.css	/^#confirm-button {$/;"	i
+#four	foundations/02-class-id-selectors/solution/solution.css	/^#four {$/;"	i
+#transition-container	animation/01-button-hover/solution/solution.css	/^#transition-container {$/;"	i
+#transition-container	animation/01-button-hover/style.css	/^#transition-container {$/;"	i
+#trigger-modal	animation/03-pop-up/solution/solution.css	/^#trigger-modal {$/;"	i
+#trigger-modal	animation/03-pop-up/solution/solution.css	/^#trigger-modal,$/;"	i
+#trigger-modal	animation/03-pop-up/style.css	/^#trigger-modal {$/;"	i
+#trigger-modal	animation/03-pop-up/style.css	/^#trigger-modal,$/;"	i
+#trigger-modal:hover	animation/03-pop-up/solution/solution.css	/^#trigger-modal:hover,$/;"	i
+#two	foundations/02-class-id-selectors/solution/solution.css	/^#two {$/;"	i
+*	animation/02-drop-down/solution/solution.css	/^* {$/;"	s
+*	animation/02-drop-down/style.css	/^* {$/;"	s
+*	animation/03-pop-up/solution/solution.css	/^* {$/;"	s
+*	animation/03-pop-up/style.css	/^* {$/;"	s
+*	flex/03-flex-header-2/style.css	/^* {$/;"	s
+.avatar.distorted	foundations/04-chaining-selectors/solution/solution.css	/^.avatar.distorted {$/;"	c
+.avatar.proportioned	foundations/04-chaining-selectors/solution/solution.css	/^.avatar.proportioned {$/;"	c
+.body	flex/07-flex-layout-2/solution/solution.css	/^.body {$/;"	c
+.box	flex/01-flex-center/solution/solution.css	/^.box {$/;"	c
+.box	flex/01-flex-center/style.css	/^.box {$/;"	c
+.button	foundations/06-cascade-fix/solution/solution.css	/^.button {$/;"	c
+.button	foundations/06-cascade-fix/style.css	/^.button {$/;"	c
+.button-container	animation/03-pop-up/solution/solution.css	/^.button-container {$/;"	c
+.button-container	animation/03-pop-up/style.css	/^.button-container {$/;"	c
+.button-container	margin-and-padding/margin-and-padding-2/solution/solution.css	/^.button-container {$/;"	c
+.button-container	margin-and-padding/margin-and-padding-2/style.css	/^.button-container {$/;"	c
+.button-container.show	animation/03-pop-up/solution/solution.css	/^.button-container.show {$/;"	c
+.buttons	flex/05-flex-modal/style.css	/^.buttons {$/;"	c
+.card	flex/07-flex-layout-2/solution/solution.css	/^.card {$/;"	c
+.card	flex/07-flex-layout-2/style.css	/^.card {$/;"	c
+.card	margin-and-padding/margin-and-padding-2/solution/solution.css	/^.card {$/;"	c
+.card	margin-and-padding/margin-and-padding-2/style.css	/^.card {$/;"	c
+.child	foundations/06-cascade-fix/style.css	/^.child {$/;"	c
+.close-button	flex/05-flex-modal/solution/solution.css	/^.close-button {$/;"	c
+.close-button	flex/05-flex-modal/style.css	/^.close-button {$/;"	c
+.confirm	foundations/06-cascade-fix/style.css	/^.confirm {$/;"	c
+.container	flex/01-flex-center/solution/solution.css	/^.container {$/;"	c
+.container	flex/01-flex-center/style.css	/^.container {$/;"	c
+.container	flex/04-flex-information/solution/solution.css	/^.container {$/;"	c
+.container	flex/07-flex-layout-2/solution/solution.css	/^.container {$/;"	c
+.container .text	foundations/05-descendant-combinator/solution/solution.css	/^.container .text {$/;"	c
+.content	flex/06-flex-layout/solution/solution.css	/^.content {$/;"	c
+.content	flex/06-flex-layout/style.css	/^.content {$/;"	c
+.content	margin-and-padding/margin-and-padding-2/solution/solution.css	/^.content {$/;"	c
+.content	margin-and-padding/margin-and-padding-2/style.css	/^.content {$/;"	c
+.description .text	flex/04-flex-information/style.css	/^.description .text {$/;"	c
+.dropdown-container	animation/02-drop-down/solution/solution.css	/^.dropdown-container {$/;"	c
+.dropdown-container	animation/02-drop-down/style.css	/^.dropdown-container {$/;"	c
+.dropdown-menu	animation/02-drop-down/solution/solution.css	/^.dropdown-menu {$/;"	c
+.dropdown-menu	animation/02-drop-down/style.css	/^.dropdown-menu {$/;"	c
+.dropdown-menu:hover ul	animation/02-drop-down/solution/solution.css	/^.dropdown-menu:hover ul {$/;"	s
+.fancy	foundations/03-grouping-selectors/solution/solution.css	/^.fancy {$/;"	c
+.footer	flex/04-flex-information/solution/solution.css	/^.footer {$/;"	c
+.footer	flex/04-flex-information/style.css	/^.footer {$/;"	c
+.footer	flex/06-flex-layout/solution/solution.css	/^.footer {$/;"	c
+.footer	flex/06-flex-layout/style.css	/^.footer {$/;"	c
+.footer	flex/07-flex-layout-2/solution/solution.css	/^.footer {$/;"	c
+.footer	flex/07-flex-layout-2/style.css	/^.footer {$/;"	c
+.header	flex/02-flex-header/solution/solution.css	/^.header  {$/;"	c
+.header	flex/02-flex-header/solution/solution.css	/^.header {$/;"	c
+.header	flex/02-flex-header/style.css	/^.header {$/;"	c
+.header	flex/03-flex-header-2/solution/solution.css	/^.header {$/;"	c
+.header	flex/03-flex-header-2/style.css	/^.header {$/;"	c
+.header	flex/05-flex-modal/solution/solution.css	/^.header {$/;"	c
+.header	flex/05-flex-modal/style.css	/^.header {$/;"	c
+.header	flex/06-flex-layout/solution/solution.css	/^.header,$/;"	c
+.header	flex/06-flex-layout/style.css	/^.header {$/;"	c
+.header	flex/07-flex-layout-2/solution/solution.css	/^.header {$/;"	c
+.header	flex/07-flex-layout-2/style.css	/^.header {$/;"	c
+.header .left-side	flex/03-flex-header-2/style.css	/^.header .left-side {$/;"	c
+.header .right-side	flex/03-flex-header-2/style.css	/^.header .right-side {$/;"	c
+.icon	flex/05-flex-modal/solution/solution.css	/^.icon {$/;"	c
+.icon	flex/05-flex-modal/style.css	/^.icon {$/;"	c
+.info	flex/04-flex-information/solution/solution.css	/^.info {$/;"	c
+.inverted	foundations/03-grouping-selectors/solution/solution.css	/^.inverted {$/;"	c
+.inverted	foundations/03-grouping-selectors/solution/solution.css	/^.inverted,$/;"	c
+.left	flex/03-flex-header-2/solution/solution.css	/^.left, .right {$/;"	c
+.logo	flex/02-flex-header/solution/solution.css	/^.logo {$/;"	c
+.logo	flex/02-flex-header/style.css	/^.logo {$/;"	c
+.logo	flex/03-flex-header-2/solution/solution.css	/^.logo {$/;"	c
+.logo	flex/03-flex-header-2/style.css	/^.logo {$/;"	c
+.modal	flex/05-flex-modal/solution/solution.css	/^.modal {$/;"	c
+.modal	flex/05-flex-modal/style.css	/^.modal {$/;"	c
+.odd	foundations/02-class-id-selectors/solution/solution.css	/^.odd {$/;"	c
+.oddly-cool	foundations/02-class-id-selectors/solution/solution.css	/^.oddly-cool {$/;"	c
+.one	margin-and-padding/margin-and-padding-1/solution/solution.css	/^.one {$/;"	c
+.one	margin-and-padding/margin-and-padding-1/style.css	/^.one {$/;"	c
+.para	foundations/06-cascade-fix/solution/solution.css	/^.para {$/;"	c
+.para	foundations/06-cascade-fix/solution/solution.css	/^.para,$/;"	c
+.para	foundations/06-cascade-fix/style.css	/^.para {$/;"	c
+.para	foundations/06-cascade-fix/style.css	/^.para,$/;"	c
+.plants	flex/04-flex-information/style.css	/^.plants {$/;"	c
+.popup-modal	animation/03-pop-up/solution/solution.css	/^.popup-modal {$/;"	c
+.popup-modal	animation/03-pop-up/style.css	/^.popup-modal {$/;"	c
+.popup-modal.show	animation/03-pop-up/solution/solution.css	/^.popup-modal.show {$/;"	c
+.profile-image	flex/03-flex-header-2/solution/solution.css	/^.profile-image {$/;"	c
+.profile-image	flex/03-flex-header-2/style.css	/^.profile-image {$/;"	c
+.right	flex/03-flex-header-2/solution/solution.css	/^.left, .right {$/;"	c
+.sidebar	flex/07-flex-layout-2/solution/solution.css	/^.sidebar {$/;"	c
+.sidebar	flex/07-flex-layout-2/style.css	/^.sidebar {$/;"	c
+.small-para	foundations/06-cascade-fix/solution/solution.css	/^.small-para {$/;"	c
+.small-para	foundations/06-cascade-fix/style.css	/^.small-para {$/;"	c
+.text	flex/05-flex-modal/solution/solution.css	/^.text {$/;"	c
+.text	flex/05-flex-modal/style.css	/^.text {$/;"	c
+.three	margin-and-padding/margin-and-padding-1/solution/solution.css	/^.three {$/;"	c
+.three	margin-and-padding/margin-and-padding-1/style.css	/^.three {$/;"	c
+.title	flex/04-flex-information/solution/solution.css	/^.title {$/;"	c
+.title	flex/04-flex-information/style.css	/^.title {$/;"	c
+.title	margin-and-padding/margin-and-padding-2/solution/solution.css	/^.title {$/;"	c
+.title	margin-and-padding/margin-and-padding-2/style.css	/^.title {$/;"	c
+.top-right	flex/05-flex-modal/style.css	/^.top-right {$/;"	c
+.two	margin-and-padding/margin-and-padding-1/solution/solution.css	/^.two {$/;"	c
+.two	margin-and-padding/margin-and-padding-1/style.css	/^.two {$/;"	c
+A Basic Header	flex/02-flex-header/README.md	/^# A Basic Header$/;"	c
+A common 'modal' style	flex/05-flex-modal/README.md	/^# A common 'modal' style$/;"	c
+A very common website feature	flex/04-flex-information/README.md	/^# A very common website feature$/;"	c
+An entire page!	flex/06-flex-layout/README.md	/^# An entire page!$/;"	c
+Another common header style	flex/03-flex-header-2/README.md	/^# Another common header style$/;"	c
+Button Hover	animation/01-button-hover/README.md	/^# Button Hover$/;"	c
+CENTER THIS DIV	flex/01-flex-center/README.md	/^# CENTER THIS DIV$/;"	c
+CSS Exercises	README.md	/^# CSS Exercises$/;"	c
+CSS Methods	foundations/06-cascade-fix/README.md	/^# CSS Methods$/;"	c
+Chaining Selectors	foundations/04-chaining-selectors/README.md	/^# Chaining Selectors$/;"	c
+Class and ID Selectors	foundations/02-class-id-selectors/README.md	/^# Class and ID Selectors$/;"	c
+Descendant Combinator	foundations/05-descendant-combinator/README.md	/^# Descendant Combinator$/;"	c
+Desired Outcome	animation/01-button-hover/README.md	/^## Desired Outcome$/;"	s	chapter:Button Hover
+Desired Outcome	animation/02-drop-down/README.md	/^## Desired Outcome$/;"	s	chapter:Dropdown
+Desired Outcome	animation/03-pop-up/README.md	/^## Desired Outcome$/;"	s	chapter:Popup
+Desired Outcome	flex/01-flex-center/README.md	/^## Desired Outcome$/;"	s	chapter:CENTER THIS DIV
+Desired Outcome	flex/02-flex-header/README.md	/^## Desired Outcome$/;"	s	chapter:A Basic Header
+Desired Outcome	flex/06-flex-layout/README.md	/^## Desired Outcome$/;"	s	chapter:An entire page!
+Desired Outcome	foundations/01-css-methods/README.md	/^## Desired Outcome$/;"	s	chapter:Methods for Adding CSS
+Desired Outcome	foundations/02-class-id-selectors/README.md	/^## Desired Outcome$/;"	s	chapter:Class and ID Selectors
+Desired Outcome	foundations/03-grouping-selectors/README.md	/^## Desired Outcome$/;"	s	chapter:Grouping Selectors
+Desired Outcome	foundations/04-chaining-selectors/README.md	/^## Desired Outcome$/;"	s	chapter:Chaining Selectors
+Desired Outcome	foundations/05-descendant-combinator/README.md	/^## Desired Outcome$/;"	s	chapter:Descendant Combinator
+Desired Outcome	foundations/06-cascade-fix/README.md	/^## Desired Outcome$/;"	s	chapter:CSS Methods
+Desired outcome	flex/03-flex-header-2/README.md	/^## Desired outcome$/;"	s	chapter:Another common header style
+Desired outcome	flex/04-flex-information/README.md	/^## Desired outcome$/;"	s	chapter:A very common website feature
+Desired outcome	flex/05-flex-modal/README.md	/^## Desired outcome$/;"	s	chapter:A common 'modal' style
+Desired outcome	flex/07-flex-layout-2/README.md	/^## Desired outcome$/;"	s	chapter:The Holy Grail of Layout
+Desired outcome	margin-and-padding/margin-and-padding-2/README.md	/^## Desired outcome$/;"	s	chapter:Margin and Padding
+Dropdown	animation/02-drop-down/README.md	/^# Dropdown$/;"	c
+Grouping Selectors	foundations/03-grouping-selectors/README.md	/^# Grouping Selectors$/;"	c
+Hints	animation/03-pop-up/README.md	/^### Hints$/;"	S	chapter:Popup
+Hints	flex/06-flex-layout/README.md	/^### Hints$/;"	S	chapter:An entire page!
+Hints	flex/07-flex-layout-2/README.md	/^### Hints$/;"	S	chapter:The Holy Grail of Layout
+How to use these exercises	README.md	/^## How to use these exercises$/;"	s	chapter:CSS Exercises
+I'm a card	margin-and-padding/margin-and-padding-2/index.html	/^    <h1 class="title">I'm a card<\/h1>$/;"	h
+I'm a card	margin-and-padding/margin-and-padding-2/solution/solution.html	/^    <h1 class="title">I'm a card<\/h1>$/;"	h
+Margin and Padding	margin-and-padding/margin-and-padding-2/README.md	/^# Margin and Padding #2$/;"	c
+Margin and Padding practice	margin-and-padding/margin-and-padding-1/README.md	/^# Margin and Padding practice$/;"	c
+Methods for Adding CSS	foundations/01-css-methods/README.md	/^# Methods for Adding CSS$/;"	c
+Popup	animation/03-pop-up/README.md	/^# Popup$/;"	c
+Self Check	animation/01-button-hover/README.md	/^### Self Check$/;"	S	section:Button Hover""Desired Outcome
+Self Check	animation/02-drop-down/README.md	/^### Self Check$/;"	S	section:Dropdown""Desired Outcome
+Self Check	animation/03-pop-up/README.md	/^### Self Check$/;"	S	section:Popup""Desired Outcome
+Self Check	flex/01-flex-center/README.md	/^### Self Check$/;"	S	section:CENTER THIS DIV""Desired Outcome
+Self Check	flex/02-flex-header/README.md	/^### Self Check$/;"	S	section:A Basic Header""Desired Outcome
+Self Check	flex/03-flex-header-2/README.md	/^### Self Check$/;"	S	section:Another common header style""Desired outcome
+Self Check	flex/04-flex-information/README.md	/^### Self Check$/;"	S	section:A very common website feature""Desired outcome
+Self Check	flex/05-flex-modal/README.md	/^### Self Check$/;"	S	section:A common 'modal' style""Desired outcome
+Self Check	flex/06-flex-layout/README.md	/^### Self Check$/;"	S	section:An entire page!""Desired Outcome
+Self Check	flex/07-flex-layout-2/README.md	/^### Self Check$/;"	S	section:The Holy Grail of Layout""Desired outcome
+Self Check	foundations/01-css-methods/README.md	/^### Self Check$/;"	S	section:Methods for Adding CSS""Desired Outcome
+Self Check	foundations/02-class-id-selectors/README.md	/^### Self Check$/;"	S	section:Class and ID Selectors""Desired Outcome
+Self Check	foundations/03-grouping-selectors/README.md	/^### Self Check$/;"	S	section:Grouping Selectors""Desired Outcome
+Self Check	foundations/04-chaining-selectors/README.md	/^### Self Check$/;"	S	section:Chaining Selectors""Desired Outcome
+Self Check	foundations/05-descendant-combinator/README.md	/^### Self Check$/;"	S	section:Descendant Combinator""Desired Outcome
+Self Check	foundations/06-cascade-fix/README.md	/^### Self Check$/;"	S	section:CSS Methods""Desired Outcome
+Self Check	margin-and-padding/margin-and-padding-2/README.md	/^### Self Check$/;"	S	section:Margin and Padding""Desired outcome
+Self-check	margin-and-padding/margin-and-padding-1/README.md	/^### Self-check $/;"	S	chapter:Margin and Padding practice
+Some hints	README.md	/^## Some hints$/;"	s	chapter:CSS Exercises
+The Holy Grail of Layout	flex/07-flex-layout-2/README.md	/^# The Holy Grail of Layout$/;"	c
+a	flex/02-flex-header/solution/solution.css	/^a {$/;"	s
+a	flex/02-flex-header/style.css	/^a {$/;"	s
+a	flex/03-flex-header-2/solution/solution.css	/^a {$/;"	s
+a	flex/03-flex-header-2/style.css	/^a {$/;"	s
+a	flex/06-flex-layout/solution/solution.css	/^a {$/;"	s
+a	flex/06-flex-layout/style.css	/^a {$/;"	s
+a	flex/07-flex-layout-2/solution/solution.css	/^a {$/;"	s
+a hint	flex/05-flex-modal/README.md	/^### a hint$/;"	S	chapter:A common 'modal' style
+body	animation/03-pop-up/solution/solution.css	/^body {$/;"	s
+body	animation/03-pop-up/style.css	/^body {$/;"	s
+body	flex/03-flex-header-2/solution/solution.css	/^body {$/;"	s
+body	flex/03-flex-header-2/style.css	/^body {$/;"	s
+body	flex/04-flex-information/solution/solution.css	/^body {$/;"	s
+body	flex/04-flex-information/style.css	/^body {$/;"	s
+body	flex/05-flex-modal/solution/solution.css	/^body {$/;"	s
+body	flex/05-flex-modal/solution/solution.css	/^html, body {$/;"	s
+body	flex/05-flex-modal/style.css	/^body {$/;"	s
+body	flex/06-flex-layout/solution/solution.css	/^body {$/;"	s
+body	flex/06-flex-layout/style.css	/^body {$/;"	s
+body	flex/07-flex-layout-2/solution/solution.css	/^body {$/;"	s
+body	flex/07-flex-layout-2/style.css	/^body {$/;"	s
+body	margin-and-padding/margin-and-padding-1/solution/solution.css	/^body {$/;"	s
+body	margin-and-padding/margin-and-padding-1/style.css	/^body {$/;"	s
+body	margin-and-padding/margin-and-padding-2/solution/solution.css	/^body {$/;"	s
+body	margin-and-padding/margin-and-padding-2/style.css	/^body {$/;"	s
+button	animation/01-button-hover/solution/solution.css	/^button {$/;"	s
+button	animation/01-button-hover/style.css	/^button {$/;"	s
+button	animation/02-drop-down/solution/solution.css	/^button {$/;"	s
+button	animation/02-drop-down/style.css	/^button {$/;"	s
+button	flex/03-flex-header-2/solution/solution.css	/^button {$/;"	s
+button	flex/03-flex-header-2/style.css	/^button {$/;"	s
+button	flex/05-flex-modal/solution/solution.css	/^button {$/;"	s
+button	flex/05-flex-modal/style.css	/^button {$/;"	s
+button	flex/06-flex-layout/solution/solution.css	/^button {$/;"	s
+button	flex/06-flex-layout/style.css	/^button {$/;"	s
+button	margin-and-padding/margin-and-padding-2/solution/solution.css	/^button {$/;"	s
+button	margin-and-padding/margin-and-padding-2/style.css	/^button {$/;"	s
+button.cancel	flex/05-flex-modal/solution/solution.css	/^button.cancel {$/;"	c
+button.cancel	flex/05-flex-modal/style.css	/^button.cancel {$/;"	c
+button.continue	flex/05-flex-modal/solution/solution.css	/^button.continue {$/;"	c
+button.continue	flex/05-flex-modal/style.css	/^button.continue {$/;"	c
+button:hover	animation/01-button-hover/solution/solution.css	/^button:hover {$/;"	s
+button:hover	animation/02-drop-down/solution/solution.css	/^button:hover {$/;"	s
+cancel-button	foundations/06-cascade-fix/index.html	/^  <button id="cancel-button" class="button cancel">Cancel<\/button>$/;"	I
+cancel-button	foundations/06-cascade-fix/solution/solution.html	/^  <button id="cancel-button" class="button cancel">Cancel<\/button>$/;"	I
+close-modal	animation/03-pop-up/index.html	/^      <button id="close-modal">Close Modal<\/button>$/;"	I
+close-modal	animation/03-pop-up/solution/solution.html	/^      <button id="close-modal">Close Modal<\/button>$/;"	I
+closeButton	animation/03-pop-up/script.js	/^const closeButton = document.getElementById('close-modal');$/;"	C
+closeButton	animation/03-pop-up/solution/solution.js	/^const closeButton = document.getElementById('close-modal');$/;"	C
+confirm-button	foundations/06-cascade-fix/index.html	/^  <button id="confirm-button" class="button confirm">Confirm<\/button>$/;"	I
+confirm-button	foundations/06-cascade-fix/solution/solution.html	/^  <button id="confirm-button" class="button confirm">Confirm<\/button>$/;"	I
+div	foundations/01-css-methods/solution/solution.css	/^div {$/;"	s
+div .child	foundations/06-cascade-fix/solution/solution.css	/^div .child {$/;"	c
+div.text	foundations/06-cascade-fix/solution/solution.css	/^div.text {$/;"	c
+div.text	foundations/06-cascade-fix/style.css	/^div.text {$/;"	c
+four	foundations/02-class-id-selectors/solution/solution.html	/^  <div id="four">Number 4 - I'm another ID.<\/div>$/;"	I
+html	flex/05-flex-modal/solution/solution.css	/^html, body {$/;"	s
+html	flex/05-flex-modal/style.css	/^html,$/;"	s
+img	flex/04-flex-information/solution/solution.css	/^img {$/;"	s
+img	flex/04-flex-information/style.css	/^img {$/;"	s
+img	flex/06-flex-layout/solution/solution.css	/^img {$/;"	s
+img	flex/06-flex-layout/style.css	/^img {$/;"	s
+input	flex/06-flex-layout/solution/solution.css	/^input {$/;"	s
+input	flex/06-flex-layout/style.css	/^input {$/;"	s
+li	animation/02-drop-down/solution/solution.css	/^li {$/;"	s
+li	animation/02-drop-down/style.css	/^li {$/;"	s
+li	flex/07-flex-layout-2/solution/solution.css	/^li {$/;"	s
+openButton	animation/03-pop-up/script.js	/^const openButton = document.getElementById('trigger-modal');$/;"	C
+openButton	animation/03-pop-up/solution/solution.js	/^const openButton = document.getElementById('trigger-modal');$/;"	C
+toggleModal	animation/03-pop-up/script.js	/^function toggleModal() {$/;"	f
+toggleModal	animation/03-pop-up/solution/solution.js	/^function toggleModal() {$/;"	f
+transition-container	animation/01-button-hover/index.html	/^    <div id="transition-container">$/;"	I
+transition-container	animation/01-button-hover/solution/solution.html	/^    <div id="transition-container">$/;"	I
+trigger-modal	animation/03-pop-up/index.html	/^      <button id="trigger-modal">Open Modal<\/button>$/;"	I
+trigger-modal	animation/03-pop-up/solution/solution.html	/^      <button id="trigger-modal">Open Modal<\/button>$/;"	I
+two	foundations/02-class-id-selectors/solution/solution.html	/^  <div id="two">Number 2 - I'm one ID.<\/div>$/;"	I
+ul	animation/02-drop-down/solution/solution.css	/^ul {$/;"	s
+ul	animation/02-drop-down/style.css	/^ul {$/;"	s
+ul	flex/02-flex-header/solution/solution.css	/^ul {$/;"	s
+ul	flex/02-flex-header/style.css	/^ul {$/;"	s
+ul	flex/03-flex-header-2/solution/solution.css	/^ul {$/;"	s
+ul	flex/03-flex-header-2/style.css	/^ul {$/;"	s
+ul	flex/06-flex-layout/solution/solution.css	/^ul {$/;"	s
+ul	flex/06-flex-layout/style.css	/^ul {$/;"	s
+ul	flex/07-flex-layout-2/solution/solution.css	/^ul {$/;"	s
+ul li:hover	animation/02-drop-down/solution/solution.css	/^ul li:hover {$/;"	s
